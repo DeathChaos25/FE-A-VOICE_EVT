@@ -21,3 +21,4 @@ LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - CHROM = Chrom
 - SERENA = Severa
 - MARTH = Lucina
+- LIZ = Lissa
