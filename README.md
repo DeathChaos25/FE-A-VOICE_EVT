@@ -14,10 +14,10 @@ to find out how they are refered to within the voice events.
 Since GitHub numbers each line, the number of that line corresponds to the text written on it, 
 meaning the number event from the line's number says the text written on it.
 
-= = LIST OF CHARACTER NAMES FOR VOICE EVENTS = =
- TIAMO = Cordelia
- MARC_M = Male Morgan
- MARC_F = Female Morgan
- CHROM = Chrom
- SERENA = Severa
- MARTH = Lucina
+= = LIST OF CHARACTER NAMES FOR VOICE EVENTS = =\n
+ TIAMO = Cordelia\n
+ MARC_M = Male Morgan\n
+ MARC_F = Female Morgan\n
+ CHROM = Chrom\n
+ SERENA = Severa\n
+ MARTH = Lucina\n
