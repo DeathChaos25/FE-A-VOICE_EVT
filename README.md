@@ -15,12 +15,13 @@ Since GitHub numbers each line, the number of that line corresponds to the text 
 meaning the number event from the line's number says the text written on it.
 
 LIST OF CHARACTER NAMES FOR VOICE EVENTS:
-- TIAMO = Cordelia
-- MARC_M = Male Morgan
-- MARC_F = Female Morgan
+- ANNA = Anna
 - CHROM = Chrom
-- SERENA = Severa
-- MARTH = Lucina
-- LIZ = Lissa
 - EUDES = Owain
 - GUIRE = Gaius
+- LIZ = Lissa
+- MARC_M = Male Morgan
+- MARC_F = Female Morgan
+- MARTH = Lucina
+- SERENA = Severa
+- TIAMO = Cordelia
