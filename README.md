@@ -22,4 +22,5 @@ LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - SERENA = Severa
 - MARTH = Lucina
 - LIZ = Lissa
+- EUDES = Owain
 - GUIRE = Gaius
