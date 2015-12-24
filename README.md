@@ -23,5 +23,6 @@ LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - MARC_M = Male Morgan
 - MARC_F = Female Morgan
 - MARTH = Lucina
+- PLAYER_M# = Male Avatar
 - SERENA = Severa
 - TIAMO = Cordelia
