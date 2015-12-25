@@ -17,6 +17,7 @@ meaning the number event from the line's number says the text written on it.
 LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - ANNA = Anna
 - CHROM = Chrom
+- CYNTHIA = Cynthia
 - EUDES = Owain
 - GUIRE = Gaius
 - LIZ = Lissa
