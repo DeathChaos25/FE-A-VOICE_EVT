@@ -24,6 +24,7 @@ LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - MARC_F = Female Morgan
 - MARC_M = Male Morgan
 - MARTH = Lucina
+- PARIS = Priam
 - PLAYER_F# = Female Avatar
 - PLAYER_M# = Male Avatar
 - SERENA = Severa
