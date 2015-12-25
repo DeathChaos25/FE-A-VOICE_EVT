@@ -20,9 +20,10 @@ LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - EUDES = Owain
 - GUIRE = Gaius
 - LIZ = Lissa
-- MARC_M = Male Morgan
 - MARC_F = Female Morgan
+- MARC_M = Male Morgan
 - MARTH = Lucina
+- PLAYER_F# = Female Avatar
 - PLAYER_M# = Male Avatar
 - SERENA = Severa
 - TIAMO = Cordelia
