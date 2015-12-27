@@ -29,3 +29,9 @@ LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - PLAYER_M# = Male Avatar
 - SERENA = Severa
 - TIAMO = Cordelia
+
+About BGM events in supports:
+- STRM_BGM_EVT_ALLFILES = This file contains a link to a mediafire foldier where I have extracted and uploaded
+- all of the possible support BGMs, the filename matches the event needed to call it, so just choose whichever
+- file you are interested in, and hit listen!
+- Or if you so choose, download them all for easier Access.
