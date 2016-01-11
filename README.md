@@ -23,11 +23,15 @@ LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - LIZ = Lissa
 - MARC_F = Female Morgan
 - MARC_M = Male Morgan
+- MARIABELL = Maribelle
 - MARTH = Lucina
+- MYRIEL = Miriel
 - PARIS = Priam
 - PLAYER_F# = Female Avatar
 - PLAYER_M# = Male Avatar
 - SERENA = Severa
+- SMIA = Sumia
+- SOIREE = Sully
 - TIAMO = Cordelia
 
 About BGM events in supports:
