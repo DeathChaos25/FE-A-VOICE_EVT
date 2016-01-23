@@ -18,6 +18,7 @@ LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - ANNA = Anna
 - CHROM = Chrom
 - CYNTHIA = Cynthia
+- DEGEL = Kjelle
 - EUDES = Owain
 - GUIRE = Gaius
 - LIZ = Lissa
@@ -26,6 +27,7 @@ LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - MARIABELL = Maribelle
 - MARTH = Lucina
 - MYRIEL = Miriel
+- NOIR = Noire
 - PARIS = Priam
 - PLAYER_F# = Female Avatar
 - PLAYER_M# = Male Avatar
