@@ -28,13 +28,17 @@ LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - MARTH = Lucina
 - MYRIEL = Miriel
 - NOIR = Noire
+- NONO = Nowi
+- OLIVIE = Olivia
 - PARIS = Priam
 - PLAYER_F# = Female Avatar
 - PLAYER_M# = Male Avatar
+- SALLYA = Tharja
 - SERENA = Severa
 - SMIA = Sumia
 - SOIREE = Sully
 - TIAMO = Cordelia
+- VELVET = Panne
 
 About BGM events in supports:
 - STRM_BGM_EVT_ALLFILES = This file contains a link to a mediafire foldier where I have extracted and uploaded
