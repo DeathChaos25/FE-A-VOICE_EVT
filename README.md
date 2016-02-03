@@ -35,6 +35,7 @@ LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - PLAYER_M# = Male Avatar
 - SALLYA = Tharja
 - SERENA = Severa
+- SERGE = Cherche
 - SMIA = Sumia
 - SOIREE = Sully
 - TIAMO = Cordelia
