@@ -52,3 +52,45 @@ YOUR END HAS COME!
 Now I'm angry!
 On my mark.
 We can defeat him!
+
+= Dual_Attack_ =
+1 - "Face ME!"
+2 - "We're not done yet!"
+3 - "My turn!"
+4 - "Come on!"
+5 - "Have another!"
+
+= Dual_Guard_ =
+0 - "hah!"
+1 - "Hold on I'm coming!"
+2 - "Think Again!"
+
+= Dual_Support_ =
+1 - "Are you ready?"
+2 - "On my mark."
+3 - "I've got you."
+4 - "Stay with us."
+5 - "It's alright."
+6 - "My strenght is yours."
+7 - "Stay focused"
+8 - "You can do this."
+9 - "As one!"
+10 - "I've got your back."
+
+= Cutin =
+1_1 - "Now I'm Angry!"
+1_2 - "Your end has come!"
+1_3 - "I will not fail!"
+2_1 - "Anything can change!"
+
+= Win_ =
+1 - "Finished?"
+2 - "Well fought."
+3 - "Good."
+4 - "Hmph."
+5 - "Right."
+
+= Win_Dual_ =
+1 - "I owe you."
+2 - "Thank you."
+3 - "Thanks friend."
