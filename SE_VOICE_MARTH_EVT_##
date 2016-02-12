@@ -46,3 +46,45 @@ FATHER!!!
 *pained sound*
 *low voice* No...
 *distressed* Why...?
+
+= Dual_Attack_ =
+1 - "You're mine!"
+2 - "Forget about me?"
+3 - "Allow me!"
+4 - "My turn!"
+5 - "Take this!"
+
+= Dual_Guard =
+1 - *grunt*
+2 - "Get back."
+3 - "I'll keep you safe!"
+
+= Dual_Support =
+1 - "Now."
+2 - "Together!"
+3 - "Be Ready."
+4 - "It's alright."
+5 - "I'm right here."
+6 - "They won't harm you."
+7 - "Seize the chance."
+8 - "Have faith."
+9 - "Stay strong."
+10 - "I'm by your side."
+
+= cutin =
+1_1 - "You WILL not stop me!"
+1_2 - "I say when it ends!"
+1_3 - "Hope will never die!"
+2_1 - "I challenge my fate!"
+
+= win =
+1 - "Whatever it takes."
+2 - "There we are."
+3 - "Good."
+4 - *small laugh*
+5 - *sigh*
+
+= win_dual =
+1 - "You have my gratitude."
+2 - "Thank you."
+3 - "Our bonds are strong."
