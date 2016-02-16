@@ -38,3 +38,45 @@ hurt/pained "nghe"
 Haa-aaa!
 Here goes nothing! 
 Here I coooome! 
+
+= Dual_Attack_ =
+1 - "Eyes on me!"
+2 - "Too slow bro!"
+3 - "Here I cooome!"
+4 - "Haha!"
+5 - "Haaaaaaaaaa!"
+
+= Dual_Guard =
+1 - *grunt*
+2 - "Woahwoahwoah!"
+3 - "Nuh-uh!"
+
+= Dual_Support =
+1 - "Go! Go! Go!"
+2 - "Who do you think you are?"
+3 - "Just try me!"
+4 - "Let's get it on!"
+5 - "You can do it!"
+6 - "Leave it to me!"
+7 - "Easy peasy!"
+8 - "Here goes nothin'!"
+9 - "Alright!"
+10 -"I'm here for ya!"
+
+= cutin =
+1_1 - "Hope you're ready!"
+1_2 - "Time to pay!"
+1_3 - "This is the end, friend!"
+2_1 - "Ok, you got this!"
+
+= win =
+1 - "Good always triumphs!"
+2 - "Nailed it!"
+3 - "Mission Complete!"
+4 - *small laugh*
+5 - *Hmm Hmm!*
+
+= win_dual =
+1 - "Woo! Thanks!"
+2 - (in awe) "Whoa..."
+3 - "Wait, it's over?"
