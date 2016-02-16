@@ -23,3 +23,45 @@ I've had enough!
 HAAH! *combat cry*
 Uh, MOVE!
 Don't you dare lose!
+
+= Dual_Attack_ =
+1 - "Ugh, Move!"
+2 - "Over her!"
+3 - *sigh* "Fine..."
+4 - "Just die already!"
+5 - "We're not done!"
+
+= Dual_Guard =
+1 - *grunt*
+2 - "Are you blind?!"
+3 - "Wipe that smile off!"
+
+= Dual_Support =
+1 - "GO!"
+2 - "Here comes trouble!"
+3 - "Handle this..."
+4 - "Don't you dare lose!"
+5 - "Impress me!"
+6 - "You better win!"
+7 - "I'm watching."
+8 - "Let's Go!"
+9 - "Let's end this!"
+10 - (annoyed) "Oh alright!"
+
+= cutin =
+1_1 - "I've had enough!"
+1_2 - "Say Good Night!"
+1_3 - "You're boring me!"
+2_1 - "I'm just getting started!"
+
+= win =
+1 - "That's what you get!"
+2 - "I was almost scared."
+3 - "Are you daft?"
+4 - *small laugh*
+5 - *Hmph!*
+
+= win_dual =
+1 - "Thanks..."
+2 - "That was MINE!"
+3 - "Glory hog"
