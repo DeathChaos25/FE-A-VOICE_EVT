@@ -16,6 +16,7 @@ meaning the number event from the line's number says the text written on it.
 
 LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - ANNA = Anna
+- BREDY = Brady
 - CHROM = Chrom
 - CYNTHIA = Cynthia
 - DEGEL = Kjelle
@@ -33,6 +34,7 @@ LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - PARIS = Priam
 - PLAYER_F# = Female Avatar
 - PLAYER_M# = Male Avatar
+- RIVIERA = Libra
 - SALLYA = Tharja
 - SERENA = Severa
 - SERGE = Cherche
