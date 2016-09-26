@@ -16,11 +16,13 @@ meaning the number event from the line's number says the text written on it.
 
 LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - ANNA = Anna
+- AZUR = Inigo
 - BREDY = Brady
 - CHROM = Chrom
 - CYNTHIA = Cynthia
 - DEGEL = Kjelle
 - EUDES = Owain
+- FREDERIK = Frederick
 - GUIRE = Gaius
 - LIZ = Lissa
 - MARC_F = Female Morgan
