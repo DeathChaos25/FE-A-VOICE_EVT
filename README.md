@@ -24,6 +24,8 @@ LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - EUDES = Owain
 - FREDERIK = Frederick
 - GUIRE = Gaius
+- HENRI = Henry
+- LICHT = Ricken
 - LIZ = Lissa
 - MARC_F = Female Morgan
 - MARC_M = Male Morgan
