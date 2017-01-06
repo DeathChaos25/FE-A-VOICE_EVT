@@ -34,6 +34,7 @@ LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - MYRIEL = Miriel
 - NOIR = Noire
 - NONO = Nowi
+- NN = Nah
 - OLIVIE = Olivia
 - PARIS = Priam
 - PLAYER_F# = Female Avatar
