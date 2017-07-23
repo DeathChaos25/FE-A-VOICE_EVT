@@ -18,6 +18,7 @@ LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - ANNA = Anna
 - AZUR = Inigo
 - BREDY = Brady
+- CHAMBRAY = Yarne
 - CHROM = Chrom
 - CYNTHIA = Cynthia
 - DEGEL = Kjelle
@@ -25,6 +26,7 @@ LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - FREDERIK = Frederick
 - GUIRE = Gaius
 - HENRI = Henry
+- KARM = Kellam
 - LICHT = Ricken
 - LIZ = Lissa
 - MARC_F = Female Morgan
@@ -46,7 +48,9 @@ LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - SERGE = Cherche
 - SMIA = Sumia
 - SOIREE = Sully
+- SORT = Stahl
 - TIAMO = Cordelia
+- TIKI = Tiki
 - VELVET = Panne
 - WYCK = Vaike
 
