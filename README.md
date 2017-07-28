@@ -26,6 +26,7 @@ LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - FREDERIK = Frederick
 - GUIRE = Gaius
 - HENRI = Henry
+- JEROME = Gerome
 - KARM = Kellam
 - LICHT = Ricken
 - LIZ = Lissa
