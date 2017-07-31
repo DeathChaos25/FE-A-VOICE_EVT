@@ -53,6 +53,7 @@ LIST OF CHARACTER NAMES FOR VOICE EVENTS:
 - TIAMO = Cordelia
 - TIKI = Tiki
 - VELVET = Panne
+- VIAUR = Virion
 - WYCK = Vaike
 
 About BGM events in supports:
