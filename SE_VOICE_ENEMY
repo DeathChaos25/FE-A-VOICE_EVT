@@ -1,16 +1,43 @@
-_M1_ATTACK_L1: *male voice, attack grunt*
-_M1_ATTACK_L2: *male voice, softer attack grunt*
-_M1_ATTACK_L3: *male voice, harder attack grunt*
-_M1_ATTACK_H1: *male voice, longer attack grunt*
-_M1_ATTACK_H2: *male voice, softer long attack grunt*
-_M1_ATTACK_H3: *male voice, attack grunt* 
-_M1_DAMAGE_1: *male voice, light pained noise*
-_M1_DAMAGE_2: *male voice, pained gasp*
-_M1_DAMAGE_3: *male voice, more painful gasp*
-_M1_DAMAGE_4: *male voice,  pained yell*
-_M1_DAMAGE_5: *male voice, heavy pained yell*
-_M1_DEAD_1: *male voice, heavy pained yell*
-_M1_DEAD_2: *male voice, weak pained yell*
-_M1_DEAD_3: *male voice, elongated pained yell* 
-_M1_DEAD_4: *male voice, pained yell*
-_M1_DEAD_5: *male voice* Damn! Gah...
+
+M1: Generic male attack voice 
+_M1_ATTACK_L1: *attack grunt*
+_M1_ATTACK_L2: *softer attack grunt*
+_M1_ATTACK_L3: *harder attack grunt*
+_M1_ATTACK_H1: *longer attack grunt*
+_M1_ATTACK_H2: *softer long attack grunt*
+_M1_ATTACK_H3: *attack grunt* 
+_M1_DAMAGE_1: *light pained noise*
+_M1_DAMAGE_2: *pained gasp*
+_M1_DAMAGE_3: *more painful gasp*
+_M1_DAMAGE_4: *pained yell*
+_M1_DAMAGE_5: *heavy pained yell*
+_M1_DEAD_1: *heavy pained yell*
+_M1_DEAD_2: *weak pained yell*
+_M1_DEAD_3: *elongated pained yell* 
+_M1_DEAD_4: *pained yell*
+_M1_DEAD_5: Damn! Gah...
+
+N1: Bandit Twin voice
+_N1_ATTACK_L1: *attack grunt*
+_N1_ATTACK_L2: Oof!
+_N1_ATTACK_L3: *grunt*
+_N1_ATTACK_H1: *longer grunt*
+_N1_ATTACK_H2: *longer grunt*
+_N1_ATTACK_H3: *exertion* 
+_N1_DAMAGE_1: *pained noise*
+_N1_DAMAGE_2: Gah! *pained noise*
+_N1_DAMAGE_3: *pained yelp*
+_N1_DAMAGE_4: Oooooo! *pained noise* 
+_N1_DAMAGE_5: *pained yell* 
+_N1_DEAD_1: Ohh..... *pained yell*
+_N1_DEAD_2: But, how...
+_N1_DEAD_3: *pained noise*
+_N1_DEAD_4: *two pained noises*
+_N1_DEAD_5: *Pained yell*
+_N1_EVT_1: Darling.
+_N1_EVT_2: See?
+_N1_EVT_3: *chuckle*
+_N1_EVT_4: *distressed noise*
+_N1_EVT_5: *distressed noise*
+_N1_EVT_6: *pain noise*
+_N1_EVT_7: Oooooo... *pained noise*
